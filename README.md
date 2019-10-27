@@ -30,6 +30,12 @@ Or you could use new ones from Reactor to model your Reactive problems:
 
 The following problems was designed to improve your skills modeling solutions.
 
+### Null safety
+
+In Java accept `null` is a valid `value` although is harmful. 
+Using JSR-305 meta-annotations like `@NonNull` or using JSR 303 & JSR 380 Bean validations,
+you could indicate that your programs only accept Non null objects.
+
 Enjoy the journey!
 
 Juan Antonio Breña Moral
