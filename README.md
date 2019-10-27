@@ -76,6 +76,6 @@ Scenario: Consume the solution when a Person without a Insurance
 **Notes:** 
 
 - Review the timeout for Every connection.
-- If the Person doesn´t have a house in the beach or if he didn´t acquire an Insurance, return a default message: `NOT AVAILABLE`
+- If the Person doesn´t have a house in the beach or if he didn´t acquire an Insurance, return a default message: `Not available`
 
 ## [References](./REFERENCES.md)
