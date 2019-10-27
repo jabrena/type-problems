@@ -20,7 +20,9 @@ classDiagram
           -String name
           +String getName()
       }
-      class Problem1 {
+      class TypeProblem1 {
+          -Person person
+          +TypeProblem1(Person person)
           +String getInsuranceName()
       }
 
