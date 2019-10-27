@@ -44,10 +44,19 @@ Try to solve th problems using Value Types & Monads
 ``` gherkin 
 Feature: Insurance names
 
+Background: Not everyone has a house in the Beach
+
 Scenario: Consume the APIs in a Happy path scenario
     Given a Person
-    When  call the endpoint /insurance/name
+    When  call the endpoint person/{id}/insurance
     Then  return the name of the insurance
 ``` 
+
+**Notes:** 
+
+- Review the timeout for Every connection.
+- If the Person doesn´t have a house in the beach or if he didn´t acquire an Insurance, return a default message: `NOT AVAILABLE`
+- REST API: https://my-json-server.typicode.com/jabrena/type-problems
+
 
 ![](./docs/class-diagram-type-problem1.svg)
