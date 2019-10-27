@@ -11,8 +11,8 @@ or [Java wrapper classes](https://en.wikipedia.org/wiki/Primitive_wrapper_class)
 
 ![](docs/images/javaTypes.png) 
 
-From Java 8, you can use `Monads`, a parameterized Types to model data with
-complex state. What Monads are available in Java 8+?
+From Java 8, you can use `Monads`, a parameterized Types to wrap values into a context and apply functions on it. 
+What Monads are available in Java 8+?
 
 - [Stream< T >](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html)
 - [Optional< T >](https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html)
