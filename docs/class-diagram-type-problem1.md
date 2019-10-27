@@ -6,8 +6,9 @@
 
 ```
 classDiagram
-      Person *-- Car
-      Car *-- Insurance
+classDiagram
+      Person "1" --> "0..1" Car
+      Car "1" --> "0..1" Insurance
       class Person {
           -Car car
           +getCar()
