@@ -36,7 +36,7 @@ Java accept `null` values when you assign to a Type although it is harmful.
 Using `JSR-305` meta-annotations like `@NonNull` or using `JSR 303` & `JSR 380` Bean validations,
 you could indicate that your programs only accept Non null values. 
 Another alternative to mitigate the usage of `null` values in your programs is with the 
-usage of the Monad `Optional<T>`
+usage of the Monad `Optional<T>` to handle the optionality effect.
 
 Enjoy the journey!
 
