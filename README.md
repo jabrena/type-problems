@@ -60,3 +60,4 @@ Scenario: Consume the APIs in a Happy path scenario
 - https://projectreactor.io/docs/
 - https://mermaidjs.github.io/mermaid-live-editor/
 - https://mermaidjs.github.io/#/classDiagram
+- https://www.manning.com/books/java-8-in-action

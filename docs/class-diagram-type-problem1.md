@@ -6,13 +6,13 @@
 
 ```
 classDiagram
-      Person *-- "0..1" Car
-      Car *-- "0..1" Insurance
+      Person *-- "0..1" BeachHouse
+      BeachHouse *-- "0..1" Insurance
       class Person {
-          -Car car
-          +getCar()
+          -BeachHouse house
+          +getHouse()
       }
-      class Car {
+      class BeachHouse {
           -Insurance insurance
           +getInsurance()
       }
