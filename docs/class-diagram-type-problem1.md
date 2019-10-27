@@ -21,11 +21,11 @@ classDiagram
           +String getName()
       }
       class TypeProblem1 {
+          -String DEFAULT_FALLBACK = "Not available"
           -Person person
           +TypeProblem1(Person person)
           +String getInsuranceName()
       }
-
 ```
 
 ## Visualization:
