@@ -37,7 +37,7 @@ Juan Antonio Breña Moral
 
 ## Problems
 
-Try to solve the problems using Value Types & Monads
+Try to solve the problems using `Value Types` & `Monads`
 
 ### Problem1
 
