@@ -37,7 +37,7 @@ Juan Antonio Breña Moral
 
 ## Problems
 
-Try to solve th problems using Value Types & Monads
+Try to solve the problems using Value Types & Monads
 
 ### Problem1
 
@@ -59,3 +59,5 @@ Scenario: Consume the APIs in a Happy path scenario
 - Review the timeout for Every connection.
 - If the Person doesn´t have a house in the beach or if he didn´t acquire an Insurance, return a default message: `NOT AVAILABLE`
 - REST API: https://my-json-server.typicode.com/jabrena/type-problems
+
+## [References](./REFERENCES.md)
