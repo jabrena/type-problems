@@ -34,9 +34,14 @@ Enjoy the journey!
 
 Juan Antonio Breña Moral
 
+
+
 ## Problems
 
+
 ### Problem 1
+
+
 
 ``` gherkin 
 Feature: Insurance names
@@ -61,3 +66,5 @@ Scenario: Consume the APIs in a Happy path scenario
 - https://github.com/aol/cyclops
 - https://github.com/vavr-io/vavr
 - https://projectreactor.io/docs/
+- https://mermaidjs.github.io/mermaid-live-editor/
+- https://mermaidjs.github.io/#/classDiagram
