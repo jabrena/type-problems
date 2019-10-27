@@ -32,9 +32,9 @@ The following problems was designed to improve your skills modeling solutions.
 
 ### Null safety
 
-Java accept `null` when you assign a type `value` although is harmful. 
+Java accept `null` values when you assign to a Type although it is harmful. 
 Using `JSR-305` meta-annotations like `@NonNull` or using `JSR 303` & `JSR 380` Bean validations,
-you could indicate that your programs only accept Non null objects.
+you could indicate that your programs only accept Non null values.
 
 Enjoy the journey!
 
