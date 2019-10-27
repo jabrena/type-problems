@@ -5,8 +5,8 @@ in Java and some Functional libraries.
 ## Motivation
 
 Using Java, the developers implements the solutions, transforming data 
-with different nature. We will consider that data as `Values`. That values will be encapsulated into Business Objects. For the design of your 
-values, you will use [Java primitives](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+with different nature. We will consider that data as `Values`. That values will be encapsulated into Objects. 
+For the design of your values, you will use [Java primitives](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 or [Java wrapper classes](https://en.wikipedia.org/wiki/Primitive_wrapper_class):
 
 ![](docs/images/javaTypes.png) 
