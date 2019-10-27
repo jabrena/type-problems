@@ -24,7 +24,7 @@ classDiagram
 
 ## Visualization:
 
-![](./sequence-diagram-latency-problem1.svg)
+![](./class-diagram-type-problem1.svg)
 
 ## Config:
 
