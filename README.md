@@ -39,7 +39,7 @@ Juan Antonio Breña Moral
 
 Try to solve th problems using Value Types & Monads
 
-### Problem 1
+### Problem1
 
 ``` gherkin 
 Feature: Insurance names
