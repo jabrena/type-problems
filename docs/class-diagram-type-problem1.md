@@ -10,16 +10,20 @@ classDiagram
       BeachHouse *-- "0..1" Insurance
       class Person {
           -BeachHouse house
-          +getHouse()
+          +BeachHouse getHouse()
       }
       class BeachHouse {
           -Insurance insurance
-          +getInsurance()
+          +Insurance getInsurance()
       }
       class Insurance {
-          - String name
-          +getName()
+          -String name
+          +String getName()
       }
+      class Problem1 {
+          +String getInsuranceName()
+      }
+
 ```
 
 ## Visualization:

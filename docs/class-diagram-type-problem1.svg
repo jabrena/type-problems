@@ -1,49 +1,49 @@
-<svg id="mermaid-1572175455599" width="180.9453125" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="-10 -10 127.296875 294.34375"><style>
+<svg id="mermaid-1572188490586" width="495.921875" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="-10 -10 337.28125 294.34375"><style>
 
 
 
-#mermaid-1572175455599 .label {
+#mermaid-1572188490586 .label {
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family);
   color: #333; }
 
-#mermaid-1572175455599 .label text {
+#mermaid-1572188490586 .label text {
   fill: #333; }
 
-#mermaid-1572175455599 .node rect,
-#mermaid-1572175455599 .node circle,
-#mermaid-1572175455599 .node ellipse,
-#mermaid-1572175455599 .node polygon {
+#mermaid-1572188490586 .node rect,
+#mermaid-1572188490586 .node circle,
+#mermaid-1572188490586 .node ellipse,
+#mermaid-1572188490586 .node polygon {
   fill: #cde498;
   stroke: #13540c;
   stroke-width: 1px; }
 
-#mermaid-1572175455599 .node .label {
+#mermaid-1572188490586 .node .label {
   text-align: center; }
 
-#mermaid-1572175455599 .node.clickable {
+#mermaid-1572188490586 .node.clickable {
   cursor: pointer; }
 
-#mermaid-1572175455599 .arrowheadPath {
+#mermaid-1572188490586 .arrowheadPath {
   fill: green; }
 
-#mermaid-1572175455599 .edgePath .path {
+#mermaid-1572188490586 .edgePath .path {
   stroke: green;
   stroke-width: 1.5px; }
 
-#mermaid-1572175455599 .edgeLabel {
+#mermaid-1572188490586 .edgeLabel {
   background-color: #e8e8e8;
   text-align: center; }
 
-#mermaid-1572175455599 .cluster rect {
+#mermaid-1572188490586 .cluster rect {
   fill: #cdffb2;
   stroke: #6eaa49;
   stroke-width: 1px; }
 
-#mermaid-1572175455599 .cluster text {
+#mermaid-1572188490586 .cluster text {
   fill: #333; }
 
-#mermaid-1572175455599 div.mermaidTooltip {
+#mermaid-1572188490586 div.mermaidTooltip {
   position: absolute;
   text-align: center;
   max-width: 200px;
@@ -57,117 +57,117 @@
   pointer-events: none;
   z-index: 100; }
 
-#mermaid-1572175455599 .actor {
+#mermaid-1572188490586 .actor {
   stroke: #13540c;
   fill: #cde498; }
 
-#mermaid-1572175455599 text.actor {
+#mermaid-1572188490586 text.actor {
   fill: black;
   stroke: none; }
 
-#mermaid-1572175455599 .actor-line {
+#mermaid-1572188490586 .actor-line {
   stroke: grey; }
 
-#mermaid-1572175455599 .messageLine0 {
+#mermaid-1572188490586 .messageLine0 {
   stroke-width: 1.5;
   stroke-dasharray: '2 2';
   stroke: #333; }
 
-#mermaid-1572175455599 .messageLine1 {
+#mermaid-1572188490586 .messageLine1 {
   stroke-width: 1.5;
   stroke-dasharray: '2 2';
   stroke: #333; }
 
-#mermaid-1572175455599 #arrowhead {
+#mermaid-1572188490586 #arrowhead {
   fill: #333; }
 
-#mermaid-1572175455599 .sequenceNumber {
+#mermaid-1572188490586 .sequenceNumber {
   fill: white; }
 
-#mermaid-1572175455599 #sequencenumber {
+#mermaid-1572188490586 #sequencenumber {
   fill: #333; }
 
-#mermaid-1572175455599 #crosshead path {
+#mermaid-1572188490586 #crosshead path {
   fill: #333 !important;
   stroke: #333 !important; }
 
-#mermaid-1572175455599 .messageText {
+#mermaid-1572188490586 .messageText {
   fill: #333;
   stroke: none; }
 
-#mermaid-1572175455599 .labelBox {
+#mermaid-1572188490586 .labelBox {
   stroke: #326932;
   fill: #cde498; }
 
-#mermaid-1572175455599 .labelText {
+#mermaid-1572188490586 .labelText {
   fill: black;
   stroke: none; }
 
-#mermaid-1572175455599 .loopText {
+#mermaid-1572188490586 .loopText {
   fill: black;
   stroke: none; }
 
-#mermaid-1572175455599 .loopLine {
+#mermaid-1572188490586 .loopLine {
   stroke-width: 2;
   stroke-dasharray: '2 2';
   stroke: #326932; }
 
-#mermaid-1572175455599 .note {
+#mermaid-1572188490586 .note {
   stroke: #6eaa49;
   fill: #fff5ad; }
 
-#mermaid-1572175455599 .noteText {
+#mermaid-1572188490586 .noteText {
   fill: black;
   stroke: none;
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family);
   font-size: 14px; }
 
-#mermaid-1572175455599 .activation0 {
+#mermaid-1572188490586 .activation0 {
   fill: #f4f4f4;
   stroke: #666; }
 
-#mermaid-1572175455599 .activation1 {
+#mermaid-1572188490586 .activation1 {
   fill: #f4f4f4;
   stroke: #666; }
 
-#mermaid-1572175455599 .activation2 {
+#mermaid-1572188490586 .activation2 {
   fill: #f4f4f4;
   stroke: #666; }
 
 
-#mermaid-1572175455599 .mermaid-main-font {
+#mermaid-1572188490586 .mermaid-main-font {
   font-family: "trebuchet ms", verdana, arial;
   font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 .section {
+#mermaid-1572188490586 .section {
   stroke: none;
   opacity: 0.2; }
 
-#mermaid-1572175455599 .section0 {
+#mermaid-1572188490586 .section0 {
   fill: #6eaa49; }
 
-#mermaid-1572175455599 .section2 {
+#mermaid-1572188490586 .section2 {
   fill: #6eaa49; }
 
-#mermaid-1572175455599 .section1,
-#mermaid-1572175455599 .section3 {
+#mermaid-1572188490586 .section1,
+#mermaid-1572188490586 .section3 {
   fill: white;
   opacity: 0.2; }
 
-#mermaid-1572175455599 .sectionTitle0 {
+#mermaid-1572188490586 .sectionTitle0 {
   fill: #333; }
 
-#mermaid-1572175455599 .sectionTitle1 {
+#mermaid-1572188490586 .sectionTitle1 {
   fill: #333; }
 
-#mermaid-1572175455599 .sectionTitle2 {
+#mermaid-1572188490586 .sectionTitle2 {
   fill: #333; }
 
-#mermaid-1572175455599 .sectionTitle3 {
+#mermaid-1572188490586 .sectionTitle3 {
   fill: #333; }
 
-#mermaid-1572175455599 .sectionTitle {
+#mermaid-1572188490586 .sectionTitle {
   text-anchor: start;
   font-size: 11px;
   text-height: 14px;
@@ -175,309 +175,309 @@
   font-family: var(--mermaid-font-family); }
 
 
-#mermaid-1572175455599 .grid .tick {
+#mermaid-1572188490586 .grid .tick {
   stroke: lightgrey;
   opacity: 0.3;
   shape-rendering: crispEdges; }
-#mermaid-1572175455599   .grid .tick text {
+#mermaid-1572188490586   .grid .tick text {
     font-family: 'trebuchet ms', verdana, arial;
     font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 .grid path {
+#mermaid-1572188490586 .grid path {
   stroke-width: 0; }
 
 
-#mermaid-1572175455599 .today {
+#mermaid-1572188490586 .today {
   fill: none;
   stroke: red;
   stroke-width: 2px; }
 
 
 
-#mermaid-1572175455599 .task {
+#mermaid-1572188490586 .task {
   stroke-width: 2; }
 
-#mermaid-1572175455599 .taskText {
+#mermaid-1572188490586 .taskText {
   text-anchor: middle;
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 .taskText:not([font-size]) {
+#mermaid-1572188490586 .taskText:not([font-size]) {
   font-size: 11px; }
 
-#mermaid-1572175455599 .taskTextOutsideRight {
+#mermaid-1572188490586 .taskTextOutsideRight {
   fill: black;
   text-anchor: start;
   font-size: 11px;
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 .taskTextOutsideLeft {
+#mermaid-1572188490586 .taskTextOutsideLeft {
   fill: black;
   text-anchor: end;
   font-size: 11px; }
 
 
-#mermaid-1572175455599 .task.clickable {
+#mermaid-1572188490586 .task.clickable {
   cursor: pointer; }
 
-#mermaid-1572175455599 .taskText.clickable {
+#mermaid-1572188490586 .taskText.clickable {
   cursor: pointer;
   fill: #003163 !important;
   font-weight: bold; }
 
-#mermaid-1572175455599 .taskTextOutsideLeft.clickable {
+#mermaid-1572188490586 .taskTextOutsideLeft.clickable {
   cursor: pointer;
   fill: #003163 !important;
   font-weight: bold; }
 
-#mermaid-1572175455599 .taskTextOutsideRight.clickable {
+#mermaid-1572188490586 .taskTextOutsideRight.clickable {
   cursor: pointer;
   fill: #003163 !important;
   font-weight: bold; }
 
 
-#mermaid-1572175455599 .taskText0,
-#mermaid-1572175455599 .taskText1,
-#mermaid-1572175455599 .taskText2,
-#mermaid-1572175455599 .taskText3 {
+#mermaid-1572188490586 .taskText0,
+#mermaid-1572188490586 .taskText1,
+#mermaid-1572188490586 .taskText2,
+#mermaid-1572188490586 .taskText3 {
   fill: white; }
 
-#mermaid-1572175455599 .task0,
-#mermaid-1572175455599 .task1,
-#mermaid-1572175455599 .task2,
-#mermaid-1572175455599 .task3 {
+#mermaid-1572188490586 .task0,
+#mermaid-1572188490586 .task1,
+#mermaid-1572188490586 .task2,
+#mermaid-1572188490586 .task3 {
   fill: #487e3a;
   stroke: #13540c; }
 
-#mermaid-1572175455599 .taskTextOutside0,
-#mermaid-1572175455599 .taskTextOutside2 {
+#mermaid-1572188490586 .taskTextOutside0,
+#mermaid-1572188490586 .taskTextOutside2 {
   fill: black; }
 
-#mermaid-1572175455599 .taskTextOutside1,
-#mermaid-1572175455599 .taskTextOutside3 {
+#mermaid-1572188490586 .taskTextOutside1,
+#mermaid-1572188490586 .taskTextOutside3 {
   fill: black; }
 
 
-#mermaid-1572175455599 .active0,
-#mermaid-1572175455599 .active1,
-#mermaid-1572175455599 .active2,
-#mermaid-1572175455599 .active3 {
+#mermaid-1572188490586 .active0,
+#mermaid-1572188490586 .active1,
+#mermaid-1572188490586 .active2,
+#mermaid-1572188490586 .active3 {
   fill: #cde498;
   stroke: #13540c; }
 
-#mermaid-1572175455599 .activeText0,
-#mermaid-1572175455599 .activeText1,
-#mermaid-1572175455599 .activeText2,
-#mermaid-1572175455599 .activeText3 {
+#mermaid-1572188490586 .activeText0,
+#mermaid-1572188490586 .activeText1,
+#mermaid-1572188490586 .activeText2,
+#mermaid-1572188490586 .activeText3 {
   fill: black !important; }
 
 
-#mermaid-1572175455599 .done0,
-#mermaid-1572175455599 .done1,
-#mermaid-1572175455599 .done2,
-#mermaid-1572175455599 .done3 {
+#mermaid-1572188490586 .done0,
+#mermaid-1572188490586 .done1,
+#mermaid-1572188490586 .done2,
+#mermaid-1572188490586 .done3 {
   stroke: grey;
   fill: lightgrey;
   stroke-width: 2; }
 
-#mermaid-1572175455599 .doneText0,
-#mermaid-1572175455599 .doneText1,
-#mermaid-1572175455599 .doneText2,
-#mermaid-1572175455599 .doneText3 {
+#mermaid-1572188490586 .doneText0,
+#mermaid-1572188490586 .doneText1,
+#mermaid-1572188490586 .doneText2,
+#mermaid-1572188490586 .doneText3 {
   fill: black !important; }
 
 
-#mermaid-1572175455599 .crit0,
-#mermaid-1572175455599 .crit1,
-#mermaid-1572175455599 .crit2,
-#mermaid-1572175455599 .crit3 {
+#mermaid-1572188490586 .crit0,
+#mermaid-1572188490586 .crit1,
+#mermaid-1572188490586 .crit2,
+#mermaid-1572188490586 .crit3 {
   stroke: #ff8888;
   fill: red;
   stroke-width: 2; }
 
-#mermaid-1572175455599 .activeCrit0,
-#mermaid-1572175455599 .activeCrit1,
-#mermaid-1572175455599 .activeCrit2,
-#mermaid-1572175455599 .activeCrit3 {
+#mermaid-1572188490586 .activeCrit0,
+#mermaid-1572188490586 .activeCrit1,
+#mermaid-1572188490586 .activeCrit2,
+#mermaid-1572188490586 .activeCrit3 {
   stroke: #ff8888;
   fill: #cde498;
   stroke-width: 2; }
 
-#mermaid-1572175455599 .doneCrit0,
-#mermaid-1572175455599 .doneCrit1,
-#mermaid-1572175455599 .doneCrit2,
-#mermaid-1572175455599 .doneCrit3 {
+#mermaid-1572188490586 .doneCrit0,
+#mermaid-1572188490586 .doneCrit1,
+#mermaid-1572188490586 .doneCrit2,
+#mermaid-1572188490586 .doneCrit3 {
   stroke: #ff8888;
   fill: lightgrey;
   stroke-width: 2;
   cursor: pointer;
   shape-rendering: crispEdges; }
 
-#mermaid-1572175455599 .milestone {
+#mermaid-1572188490586 .milestone {
   transform: rotate(45deg) scale(0.8, 0.8); }
 
-#mermaid-1572175455599 .milestoneText {
+#mermaid-1572188490586 .milestoneText {
   font-style: italic; }
 
-#mermaid-1572175455599 .doneCritText0,
-#mermaid-1572175455599 .doneCritText1,
-#mermaid-1572175455599 .doneCritText2,
-#mermaid-1572175455599 .doneCritText3 {
+#mermaid-1572188490586 .doneCritText0,
+#mermaid-1572188490586 .doneCritText1,
+#mermaid-1572188490586 .doneCritText2,
+#mermaid-1572188490586 .doneCritText3 {
   fill: black !important; }
 
-#mermaid-1572175455599 .activeCritText0,
-#mermaid-1572175455599 .activeCritText1,
-#mermaid-1572175455599 .activeCritText2,
-#mermaid-1572175455599 .activeCritText3 {
+#mermaid-1572188490586 .activeCritText0,
+#mermaid-1572188490586 .activeCritText1,
+#mermaid-1572188490586 .activeCritText2,
+#mermaid-1572188490586 .activeCritText3 {
   fill: black !important; }
 
-#mermaid-1572175455599 .titleText {
+#mermaid-1572188490586 .titleText {
   text-anchor: middle;
   font-size: 18px;
   fill: black;
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 g.classGroup text {
+#mermaid-1572188490586 g.classGroup text {
   fill: #13540c;
   stroke: none;
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family);
   font-size: 10px; }
-#mermaid-1572175455599   g.classGroup text .title {
+#mermaid-1572188490586   g.classGroup text .title {
     font-weight: bolder; }
 
-#mermaid-1572175455599 g.classGroup rect {
+#mermaid-1572188490586 g.classGroup rect {
   fill: #cde498;
   stroke: #13540c; }
 
-#mermaid-1572175455599 g.classGroup line {
+#mermaid-1572188490586 g.classGroup line {
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 .classLabel .box {
+#mermaid-1572188490586 .classLabel .box {
   stroke: none;
   stroke-width: 0;
   fill: #cde498;
   opacity: 0.5; }
 
-#mermaid-1572175455599 .classLabel .label {
+#mermaid-1572188490586 .classLabel .label {
   fill: #13540c;
   font-size: 10px; }
 
-#mermaid-1572175455599 .relation {
+#mermaid-1572188490586 .relation {
   stroke: #13540c;
   stroke-width: 1;
   fill: none; }
 
-#mermaid-1572175455599 #compositionStart {
+#mermaid-1572188490586 #compositionStart {
   fill: #13540c;
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 #compositionEnd {
+#mermaid-1572188490586 #compositionEnd {
   fill: #13540c;
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 #aggregationStart {
+#mermaid-1572188490586 #aggregationStart {
   fill: #cde498;
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 #aggregationEnd {
+#mermaid-1572188490586 #aggregationEnd {
   fill: #cde498;
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 #dependencyStart {
+#mermaid-1572188490586 #dependencyStart {
   fill: #13540c;
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 #dependencyEnd {
+#mermaid-1572188490586 #dependencyEnd {
   fill: #13540c;
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 #extensionStart {
+#mermaid-1572188490586 #extensionStart {
   fill: #13540c;
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 #extensionEnd {
+#mermaid-1572188490586 #extensionEnd {
   fill: #13540c;
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 .commit-id,
-#mermaid-1572175455599 .commit-msg,
-#mermaid-1572175455599 .branch-label {
+#mermaid-1572188490586 .commit-id,
+#mermaid-1572188490586 .commit-msg,
+#mermaid-1572188490586 .branch-label {
   fill: lightgrey;
   color: lightgrey;
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 .pieTitleText {
+#mermaid-1572188490586 .pieTitleText {
   text-anchor: middle;
   font-size: 25px;
   fill: black;
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 .slice {
+#mermaid-1572188490586 .slice {
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 g.stateGroup text {
+#mermaid-1572188490586 g.stateGroup text {
   fill: #13540c;
   stroke: none;
   font-size: 10px;
   font-family: 'trebuchet ms', verdana, arial;
   font-family: var(--mermaid-font-family); }
 
-#mermaid-1572175455599 g.stateGroup text {
+#mermaid-1572188490586 g.stateGroup text {
   fill: #13540c;
   stroke: none;
   font-size: 10px; }
 
-#mermaid-1572175455599 g.stateGroup .state-title {
+#mermaid-1572188490586 g.stateGroup .state-title {
   font-weight: bolder;
   fill: black; }
 
-#mermaid-1572175455599 g.stateGroup rect {
+#mermaid-1572188490586 g.stateGroup rect {
   fill: #cde498;
   stroke: #13540c; }
 
-#mermaid-1572175455599 g.stateGroup line {
+#mermaid-1572188490586 g.stateGroup line {
   stroke: #13540c;
   stroke-width: 1; }
 
-#mermaid-1572175455599 .transition {
+#mermaid-1572188490586 .transition {
   stroke: #13540c;
   stroke-width: 1;
   fill: none; }
 
-#mermaid-1572175455599 .stateGroup .composit {
+#mermaid-1572188490586 .stateGroup .composit {
   fill: white;
   border-bottom: 1px; }
 
-#mermaid-1572175455599 .state-note {
+#mermaid-1572188490586 .state-note {
   stroke: #6eaa49;
   fill: #fff5ad; }
-#mermaid-1572175455599   .state-note text {
+#mermaid-1572188490586   .state-note text {
     fill: black;
     stroke: none;
     font-size: 10px; }
 
-#mermaid-1572175455599 .stateLabel .box {
+#mermaid-1572188490586 .stateLabel .box {
   stroke: none;
   stroke-width: 0;
   fill: #cde498;
   opacity: 0.5; }
 
-#mermaid-1572175455599 .stateLabel text {
+#mermaid-1572188490586 .stateLabel text {
   fill: black;
   font-size: 10px;
   font-weight: bold;
@@ -488,7 +488,7 @@
   --mermaid-font-family: '"trebuchet ms", verdana, arial';
   --mermaid-font-family: "Comic Sans MS", "Comic Sans", cursive; }
 
-:root { --mermaid-font-family: "trebuchet ms", verdana, arial;}</style><style>#mermaid-1572175455599 {
+:root { --mermaid-font-family: "trebuchet ms", verdana, arial;}</style><style>#mermaid-1572188490586 {
     color: rgba(0, 0, 0, 0.65);
     font: ;
-  }</style><g></g><defs><marker id="extensionStart" class="extension" refX="0" refY="7" markerWidth="190" markerHeight="240" orient="auto"><path d="M 1,7 L18,13 V 1 Z"></path></marker></defs><defs><marker id="extensionEnd" refX="19" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 1,1 V 13 L18,7 Z"></path></marker></defs><defs><marker id="compositionStart" class="extension" refX="0" refY="7" markerWidth="190" markerHeight="240" orient="auto"><path d="M 18,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="compositionEnd" refX="19" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="aggregationStart" class="extension" refX="0" refY="7" markerWidth="190" markerHeight="240" orient="auto"><path d="M 18,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="aggregationEnd" refX="19" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="dependencyStart" class="extension" refX="0" refY="7" markerWidth="190" markerHeight="240" orient="auto"><path d="M 5,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="dependencyEnd" refX="19" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L14,7 L9,1 Z"></path></marker></defs><g id="classId1" class="classGroup" transform="translate(3.078125,0 )"><rect x="0" y="0" width="101.140625" height="58.09375"></rect><text y="15" x="0"><tspan class="title" x="34.6875">Person</tspan></text><line x1="0" y1="21" y2="21" x2="101.140625"></line><text x="5" y="31" fill="white" class="classText"><tspan x="5">-BeachHouse house</tspan></text><line x1="0" y1="37" y2="37" x2="101.140625"></line><text x="5" y="52" fill="white" class="classText"><tspan x="5">+getHouse()</tspan></text></g><g id="classId2" class="classGroup" transform="translate(0,108.09375 )"><rect x="0" y="0" width="107.296875" height="58.09375"></rect><text y="15" x="0"><tspan class="title" x="25.3828125">BeachHouse</tspan></text><line x1="0" y1="21" y2="21" x2="107.296875"></line><text x="5" y="31" fill="white" class="classText"><tspan x="5">-Insurance insurance</tspan></text><line x1="0" y1="37" y2="37" x2="107.296875"></line><text x="5" y="52" fill="white" class="classText"><tspan x="5">+getInsurance()</tspan></text></g><g id="classId0" class="classGroup" transform="translate(16.0625,216.1875 )"><rect x="0" y="0" width="75.171875" height="58.15625"></rect><text y="15" x="0"><tspan class="title" x="14.9453125">Insurance</tspan></text><line x1="0" y1="21" y2="21" x2="75.171875"></line><text x="5" y="31" fill="white" class="classText"><tspan x="5">- String name</tspan></text><line x1="0" y1="37.0625" y2="37.0625" x2="75.171875"></line><text x="5" y="52.0625" fill="white" class="classText"><tspan x="5">+getName()</tspan></text></g><path d="M53.6484375,58.09375L53.6484375,62.260416666666664C53.6484375,66.42708333333333,53.6484375,74.76041666666667,53.6484375,83.09375C53.6484375,91.42708333333333,53.6484375,99.76041666666667,53.6484375,103.92708333333333L53.6484375,108.09375" id="edge555" class="relation" marker-start="url(#compositionStart)"></path><g class="cardinality"><text class="type2" x="58.6484375" y="95.59375" fill="black" font-size="6">0..1</text></g><path d="M53.6484375,166.1875L53.6484375,170.35416666666666C53.6484375,174.52083333333334,53.6484375,182.85416666666666,53.6484375,191.1875C53.6484375,199.52083333333334,53.6484375,207.85416666666666,53.6484375,212.02083333333334L53.6484375,216.1875" id="edge556" class="relation" marker-start="url(#compositionStart)"></path><g class="cardinality"><text class="type2" x="58.6484375" y="203.6875" fill="black" font-size="6">0..1</text></g></svg>
+  }</style><g></g><defs><marker id="extensionStart" class="extension" refX="0" refY="7" markerWidth="190" markerHeight="240" orient="auto"><path d="M 1,7 L18,13 V 1 Z"></path></marker></defs><defs><marker id="extensionEnd" refX="19" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 1,1 V 13 L18,7 Z"></path></marker></defs><defs><marker id="compositionStart" class="extension" refX="0" refY="7" markerWidth="190" markerHeight="240" orient="auto"><path d="M 18,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="compositionEnd" refX="19" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="aggregationStart" class="extension" refX="0" refY="7" markerWidth="190" markerHeight="240" orient="auto"><path d="M 18,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="aggregationEnd" refX="19" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="dependencyStart" class="extension" refX="0" refY="7" markerWidth="190" markerHeight="240" orient="auto"><path d="M 5,7 L9,13 L1,7 L9,1 Z"></path></marker></defs><defs><marker id="dependencyEnd" refX="19" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L14,7 L9,1 Z"></path></marker></defs><g id="classId1" class="classGroup" transform="translate(2.5,0 )"><rect x="0" y="0" width="125.578125" height="58.09375"></rect><text y="15" x="0"><tspan class="title" x="46.90625">Person</tspan></text><line x1="0" y1="21" y2="21" x2="125.578125"></line><text x="5" y="31" fill="white" class="classText"><tspan x="5">-BeachHouse house</tspan></text><line x1="0" y1="37" y2="37" x2="125.578125"></line><text x="5" y="52" fill="white" class="classText"><tspan x="5">+BeachHouse getHouse()</tspan></text></g><g id="classId2" class="classGroup" transform="translate(0,108.09375 )"><rect x="0" y="0" width="130.578125" height="58.09375"></rect><text y="15" x="0"><tspan class="title" x="37.0234375">BeachHouse</tspan></text><line x1="0" y1="21" y2="21" x2="130.578125"></line><text x="5" y="31" fill="white" class="classText"><tspan x="5">-Insurance insurance</tspan></text><line x1="0" y1="37" y2="37" x2="130.578125"></line><text x="5" y="52" fill="white" class="classText"><tspan x="5">+Insurance getInsurance()</tspan></text></g><g id="classId3" class="classGroup" transform="translate(17.0703125,216.1875 )"><rect x="0" y="0" width="96.4375" height="58.15625"></rect><text y="15" x="0"><tspan class="title" x="25.578125">Insurance</tspan></text><line x1="0" y1="21" y2="21" x2="96.4375"></line><text x="5" y="31" fill="white" class="classText"><tspan x="5">-String name</tspan></text><line x1="0" y1="37.0625" y2="37.0625" x2="96.4375"></line><text x="5" y="52.0625" fill="white" class="classText"><tspan x="5">+String getName()</tspan></text></g><g id="classId0" class="classGroup" transform="translate(178.078125,5.5 )"><rect x="0" y="0" width="139.203125" height="47.09375"></rect><text y="15" x="0"><tspan class="title" x="47.21875">Problem1</tspan></text><line x1="0" y1="21" y2="21" x2="139.203125"></line><text x="5" y="31" fill="white" class="classText"></text><line x1="0" y1="26" y2="26" x2="139.203125"></line><text x="5" y="41" fill="white" class="classText"><tspan x="5">+String getInsuranceName()</tspan></text></g><path d="M65.2890625,58.09375L65.2890625,62.260416666666664C65.2890625,66.42708333333333,65.2890625,74.76041666666667,65.2890625,83.09375C65.2890625,91.42708333333333,65.2890625,99.76041666666667,65.2890625,103.92708333333333L65.2890625,108.09375" id="edge146" class="relation" marker-start="url(#compositionStart)"></path><g class="cardinality"><text class="type2" x="70.2890625" y="95.59375" fill="black" font-size="6">0..1</text></g><path d="M65.2890625,166.1875L65.2890625,170.35416666666666C65.2890625,174.52083333333334,65.2890625,182.85416666666666,65.2890625,191.1875C65.2890625,199.52083333333334,65.2890625,207.85416666666666,65.2890625,212.02083333333334L65.2890625,216.1875" id="edge147" class="relation" marker-start="url(#compositionStart)"></path><g class="cardinality"><text class="type2" x="70.2890625" y="203.6875" fill="black" font-size="6">0..1</text></g></svg>
