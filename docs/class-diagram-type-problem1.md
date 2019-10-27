@@ -10,14 +10,17 @@ classDiagram
       BeachHouse *-- "0..1" Insurance
       class Person {
           -BeachHouse house
+          +Person(BeachHouse house)
           +BeachHouse getHouse()
       }
       class BeachHouse {
           -Insurance insurance
+          +BeachHouse(Insurance house)
           +Insurance getInsurance()
       }
       class Insurance {
           -String name
+          +Insurance(String name)
           +String getName()
       }
       class TypeProblem1 {
@@ -26,6 +29,7 @@ classDiagram
           +TypeProblem1(Person person)
           +String getInsuranceName()
       }
+
 ```
 
 ## Visualization:
