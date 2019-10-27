@@ -1,6 +1,6 @@
 # Type problems
 A set of problems to improve your skills with `TyDD, Type Driven Development` 
-in Java and some Functional libraries.
+with Java and some additional Functional libraries.
 
 ## Motivation
 
