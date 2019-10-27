@@ -69,6 +69,5 @@ Scenario: Consume the solution when a Person without a Insurance
 
 - Review the timeout for Every connection.
 - If the Person doesn´t have a house in the beach or if he didn´t acquire an Insurance, return a default message: `NOT AVAILABLE`
-- REST API: https://my-json-server.typicode.com/jabrena/type-problems
 
 ## [References](./REFERENCES.md)
