@@ -46,17 +46,17 @@ Feature: Insurance names
 
 Background: Not everyone has a house in the Beach or acquire an Insurance for the house.
 
-Scenario: Consume the APIs in a Happy path scenario
+Scenario: Consume the solution in a Happy path scenario
     Given a TypeProblem1
     When  call the method: getInsuranceName()
     Then  return the name of the insurance
 
-Scenario: Consume the APIs when a Person without any Beachhosue
+Scenario: Consume the solution when a Person without any Beachhosue
     Given a TypeProblem1
     When  call the method: getInsuranceName()
     Then  return the name of the default result
 
-Scenario: Consume the APIs when a Person without a Insurance
+Scenario: Consume the solution when a Person without a Insurance
     Given a TypeProblem1
     When  call the method: getInsuranceName()
     Then  return the name of the default result
