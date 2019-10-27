@@ -35,12 +35,9 @@ Enjoy the journey!
 Juan Antonio Breña Moral
 
 
-
 ##  Problems
 
 ### Problem 1
-
-
 
 ``` gherkin 
 Feature: Insurance names
@@ -53,11 +50,7 @@ Scenario: Consume the APIs in a Happy path scenario
 
 ![](./docs/class-diagram-type-problem1.svg)
 
-
 ## References
-
-
-
 
 - https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html
 - https://www.baeldung.com/java-primitives-vs-objects
